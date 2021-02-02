@@ -1,0 +1,10 @@
+body {
+	background: red;
+}
+
+img {
+	width: 750px; 
+	height: 750px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
